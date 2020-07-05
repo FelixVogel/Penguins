@@ -351,7 +351,7 @@ const init = (): void => {
 
         population = [];
 
-        let c = 50 + Math.floor(Math.random() * 50);
+        let c = 20 + Math.floor(Math.random() * 10);
 
         for (let i = 0; i < c; i++) {
             population.push(new Penguin(Math.random() * (window.innerWidth - 30), why + Math.ceil(Math.random() * whdiff)));
