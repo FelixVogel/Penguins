@@ -1,0 +1,15 @@
+# Ignore IDE specific files
+.idea
+
+# Ignore compiled script
+*.js
+*.js.map
+
+# Ignore build files
+APPEND.txt
+BUILD.txt
+tsbuild.sh
+tsconfig.json
+
+# Don't ignore distribute min.js (GitHub Pages)
+!build/min.js

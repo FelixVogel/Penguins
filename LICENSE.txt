@@ -1,0 +1,35 @@
+License
+
+https://github.com/FelixVogel/Penguins
+Copyright (c) 2020 Felix Vogel
+All rights reserved
+
+Distribution, modification and use in source and binary form are permitted provided
+that the following conditions are met:
+
+ * The appendix must be included for all or partial parts of the software.
+
+ * This license must be kept included in the Software.
+
+ * No names, neither author, copyright holder or contributors shall be used to endorse, promote or
+   advertise any products resulting using the software.
+
+ * Modifications are allowed as long as they are documented and the copyright holders have been notified.
+
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+APPENDIX
+
+https://github.com/FelixVogel/Penguins
+Copyright (c) 2020 Felix Vogel
+
+For the full copyright and license information, please view the LICENSE
+file that was distributed with this source code.
+
+APPENDIX END
